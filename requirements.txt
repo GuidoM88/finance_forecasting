@@ -1,0 +1,14 @@
+pandas
+numpy
+scikit-learn
+xgboost
+lightgbm
+mlflow
+fastapi
+uvicorn
+evidently
+river
+streamlit
+prefect
+yfinance
+jupyterlab
