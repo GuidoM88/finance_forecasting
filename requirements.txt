@@ -12,3 +12,6 @@ streamlit
 prefect
 yfinance
 jupyterlab
+matplotlib
+seaborn
+optuna
